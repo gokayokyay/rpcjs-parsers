@@ -1,0 +1,12 @@
+{
+  "name": "@rpcjs/parsers",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gokayokyay/rpcjs-parsers",
+  "author": "Gökay Okyay",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-html-parser": "^5.0.0"
+  }
+}
